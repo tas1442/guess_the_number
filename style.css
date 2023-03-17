@@ -35,7 +35,7 @@ button {
   margin: 1rem auto;
 }
 
-.elements__display {
+.number {
   background-color: white;
   color: black;
   font-size: 52px;
@@ -75,6 +75,8 @@ hr {
   width: 12rem;
   height: 4rem;
   margin-bottom: 1rem;
+  font-family: "Press Start 2P", cursive, verdana;
+  text-align: center;
 }
 
 .record {
